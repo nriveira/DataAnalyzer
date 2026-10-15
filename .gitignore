@@ -1,0 +1,10 @@
+# recordings (several GB); analysis results are saved beside them
+DATA/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
